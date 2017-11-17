@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Jason Anastasopoulos
+## Microsoft Visiting Professor of Information Technology Policy, Princeton University
+## Assistant Professor of Public Administration & Policy and Political Science, University of Georgia
 
 You can use the [editor on GitHub](https://github.com/ljanastas/ljanastas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
