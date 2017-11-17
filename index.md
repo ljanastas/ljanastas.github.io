@@ -1,6 +1,16 @@
 # Jason Anastasopoulos
-## Microsoft Visiting Professor of Information Technology Policy, Princeton University
-## Assistant Professor of Public Administration & Policy and Political Science, University of Georgia
+
+Welcome! For the 2017-2018 academic year I am visiting [Princeton University as the Microsoft Visiting Professor](https://scholar.princeton.edu/ljanastas/home) at the Center for Information Technology Policy. I am Assistant Professor in the departments of [Public Administration and Policy and Political Science at the University of Georgia](http://spia.uga.edu/). I am also a faculty affiliate at the Institute for Artificial Intelligence. 
+
+I teach methods courses in machine learning for policy analysis, causal inference, research design and quantitative methods.
+
+My substantive research uses organization theory, game theory, machine learning and network analysis to understand how individual decisonmaking processes shape political institutions and policy.
+
+My methods research interests include machine learning, Bayesian causal inference, deep learning, network analysis and the emerging field of algorithmic game theory.
+
+My main projects in political methodology include providing epistemological and substantive justifications for causal inference from a Bayesian perspective and the development of causal inference methodologies for time series data using deep learning methods such as Long Short Term Memory (LSTMs) neural networks and General Adversarial Networks (GANs).
+
+
 
 You can use the [editor on GitHub](https://github.com/ljanastas/ljanastas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
