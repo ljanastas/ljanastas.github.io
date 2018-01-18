@@ -1,6 +1,3 @@
-# Jason Anastasopoulos
-
-[Home](index.md) [CV](mycv) [Research](research.md) 
 
 ![Single hidden layer neural network](https://static.scholar.harvard.edu/files/styles/os_files_xxlarge/public/janastas/files/hiddenlayer.jpg)
 
