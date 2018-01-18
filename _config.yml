@@ -3,3 +3,8 @@ description: Microsoft Visiting Professor, Princeton University
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+# Includes an icon in the footer for each username you enter
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - research.md
