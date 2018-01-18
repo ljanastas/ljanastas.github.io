@@ -1,6 +1,8 @@
 # Jason Anastasopoulos
 
-![alt text](https://static.scholar.harvard.edu/files/styles/os_files_xxlarge/public/janastas/files/hiddenlayer.jpg)
+[Home](index.md) [CV](mycv) [Research](research.md) 
+
+![Single hidden layer neural network](https://static.scholar.harvard.edu/files/styles/os_files_xxlarge/public/janastas/files/hiddenlayer.jpg)
 
 Welcome! For the 2017-2018 academic year I am visiting [Princeton University as the Microsoft Visiting Professor](https://scholar.princeton.edu/ljanastas/home) at the Center for Information Technology Policy. I am Assistant Professor in the departments of [Public Administration and Policy and Political Science at the University of Georgia](http://spia.uga.edu/). I am also a faculty affiliate at the Institute for Artificial Intelligence. 
 
